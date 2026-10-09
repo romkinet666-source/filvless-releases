@@ -1,2 +1,26 @@
-# filvless-releases
-Official universal Android APK releases for Filvless VPN
+# Filvless для Android
+
+[Скачать универсальный APK](https://github.com/romkinet666-source/filvless-releases/releases).
+Один APK для всех поддерживаемых процессоров Android; минимальная версия Android 7.
+
+Этот открытый репозиторий содержит установочные пакеты Filvless.
+
+## Обновление
+
+С 0.6.16-preview и более ранних версий один раз скачайте новый APK вручную
+и установите поверх приложения. Подписка и настройки сохраняются.
+С 0.6.17-preview приложение проверяет обновления по этому открытому репозиторию.
+Можно выбрать фоновую загрузку только по Wi-Fi, через любую сеть или вручную.
+Установку подтверждает пользователь в системном окне Android.
+
+## Начало работы
+
+Добавить → импортировать свою подписку → выбрать сервер → подключить.
+Android запросит разрешение на VPN-соединение.
+
+Покупка и продление: [@filvless_bot](https://t.me/filvless_bot).
+Поддержка: [@Godfather099](https://t.me/Godfather099).
+
+Filvless основан на [v2rayNG](https://github.com/2dust/v2rayNG) и
+[Xray-core](https://github.com/XTLS/Xray-core). Производная работа: GNU GPL v3.
+Сборки preview предназначены для тестирования.
